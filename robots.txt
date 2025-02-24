@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://SirRipster/SirRipster-Porfolio.github.io/sitemap.xml

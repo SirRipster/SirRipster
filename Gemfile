@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'logger'
-gem 'observer'
 gem 'jekyll'
 
 # Core plugins that directly affect site building

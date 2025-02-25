@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://SirRipster.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://sirripster.github.io/sitemap.xml

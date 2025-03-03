@@ -199,8 +199,10 @@ exclude:
   - _projects/?_project.md
   - _pages/publications.md
   - _pages/teaching.md
-  - _pages/people.md
+  - _pages/profiles.md
   - _pages/dropdown.md
+  - _pages/repositories.md
+
 
 
 keep_files:

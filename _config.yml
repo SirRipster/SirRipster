@@ -193,11 +193,16 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _news/announcement_*.md
+  - _news/announcement_*.md ## I removed these for my needs
   - _pages/blog.md
   - _posts/
   - _projects/?_project.md
   - _pages/publications.md
+  - _pages/teaching.md
+  - _pages/people.md
+  - _pages/dropdown.md
+
+
 keep_files:
   - CNAME
   - .nojekyll

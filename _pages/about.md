@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: “We must strive to be more than what we are, It does not matter that we will never reach our ultimate goal. The effort yields its own rewards.” -Data in Star Trek TNG: “The Offspring”
+subtitle: “We must strive to be more than what we are, It does not matter that we will never reach our ultimate goal. The effort yields its own rewards.” -Data in Star Trek TNG “The Offspring”
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
- # more_info: >
- #   <p>555 your office number</p> 
- #   <p>123 your address street</p>
- #   <p>Your City, State 12345</p>
+  more_info: >
+    <p>1100 South Marietta Pkwy SE</p>
+    <p>Marietta, GA </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}" / I disabled
 social: true # includes social icons at the bottom of the page

@@ -90,6 +90,16 @@
         "Python",
         "Password Cracking"
       ]
+    },
+    {
+      "name": "Quality Assurance",
+      "level": "Novice",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Beta Testing",
+        "Self-tempo",
+        "Bug Hunting"
+      ]
     }
   ],
   "languages": [

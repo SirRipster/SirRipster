@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: “We must strive to be more than what we are, It does not matter that we will never reach our ultimate goal. The effort yields its own rewards.” -Data in Star Trek TNG “The Offspring”
+subtitle: “We must strive to be more than what we are, It does not matter that we will never reach our ultimate goal. The effort yields its own rewards.” - Data, Star Trek TNG  # “The Offspring”
 
 profile:
   align: right

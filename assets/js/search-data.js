@@ -57,7 +57,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/David-Ripley", "_blank");
+          window.open("https://www.linkedin.com/in/david-ripley-b4a97b236", "_blank");
         },
       },{
       id: 'light-theme',

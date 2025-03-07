@@ -4,7 +4,7 @@
     "label": "CS major",
     "image": "",
     "email": "Dripley404@Gmail.com",
-    "phone": ";)",
+    "phone": "404-909-2770",
     "url": "https://sirripster.github.io/",
     "summary": "A Georgia born CS major who has a deep interest in cyber security, 3d-printing, and painting",
     "location": {
@@ -126,11 +126,11 @@
       ]
     }
   ],
-  "references": [
+   "references": [
     {
-      "name": "Sean",
+      "name": "N/A",
       "icon": "fa-solid fa-laptop",
-      "reference": "Placeholder for now"
+      "reference": "N/A"
     }
   ],
   "projects": [
